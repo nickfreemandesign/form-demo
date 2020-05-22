@@ -5,7 +5,7 @@ This [form demo](http://demo-form.s3-website-us-east-1.amazonaws.com/) is a mult
 
 ### Application Sequence Diagram
 
-['./doc/timesequence.jpg](Timesequence diagram for application)
+![Timesequence diagram for application](https://github.com/nickfreemandesign/form-demo/blob/master/doc/timesequence.jpg?raw=true)
 
 ### Application Hierarchy
 
