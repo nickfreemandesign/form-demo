@@ -5,11 +5,11 @@ This [form demo](http://demo-form.s3-website-us-east-1.amazonaws.com/) is a mult
 
 ### Application Sequence Diagram
 
-![Timesequence diagram for application](https://github.com/nickfreemandesign/form-demo/blob/master/doc/timesequence.jpg?raw=true)
+![Timesequence diagram for application](https://demo-form.s3.amazonaws.com/timesequence.jpg)
 
 ### Application Hierarchy
 
-['./doc/hierarchy.jpg](Diagram of application heirarchy)
+[Diagram of application heirarchy](https://demo-form.s3.amazonaws.com/hierarchy.jpg)
 
 ## Development
 
