@@ -1,7 +1,7 @@
 ## FORM DEMO
 Just a demo of a multi-step form
 
-This [form demo](http://demo-form.s3-website-us-east-1.amazonaws.com/) is a multi-step signup form built in React with TS, using Formik, and Yup libraries.
+This [form demo](http://demo-form.s3-website-us-east-1.amazonaws.com/) is a multi-step signup form built in React with TS, using Formik, and Yup libraries. It was designed with the intention of creating any kind of form registration that required multiple pages. Users 
 
 ### Application Sequence Diagram
 
@@ -10,6 +10,7 @@ This [form demo](http://demo-form.s3-website-us-east-1.amazonaws.com/) is a mult
 ### Application Hierarchy
 
 ![Diagram of application heirarchy](https://demo-form.s3.amazonaws.com/hierarchy.jpg)
+
 
 ## Development
 
