@@ -9,7 +9,7 @@ This [form demo](http://demo-form.s3-website-us-east-1.amazonaws.com/) is a mult
 
 ### Application Hierarchy
 
-[Diagram of application heirarchy](https://demo-form.s3.amazonaws.com/hierarchy.jpg)
+![Diagram of application heirarchy](https://demo-form.s3.amazonaws.com/hierarchy.jpg)
 
 ## Development
 
